@@ -1,0 +1,318 @@
+[
+  {
+    "name": "YISHUN MRT",
+    "aliases": [
+      "NORTHPOINT CITY",
+      "NORTHPOINT"
+    ]
+  },
+  {
+    "name": "WOODLANDS MRT",
+    "aliases": [
+      "CAUSEWAY POINT"
+    ]
+  },
+  {
+    "name": "ADMIRALTY MRT"
+  },
+  {
+    "name": "SEMBAWANG MRT"
+  },
+  {
+    "name": "YIO CHU KANG MRT"
+  },
+  {
+    "name": "ANG MO KIO MRT",
+    "aliases": [
+      "AMK HUB"
+    ]
+  },
+  {
+    "name": "BISHAN MRT",
+    "aliases": [
+      "JUNCTION 8",
+      "J8"
+    ]
+  },
+  {
+    "name": "TOA PAYOH MRT",
+    "aliases": [
+      "HDB HUB TOA PAYOH"
+    ]
+  },
+  {
+    "name": "NOVENA MRT",
+    "aliases": [
+      "UNITED SQUARE",
+      "VELOCITY NOVENA"
+    ]
+  },
+  {
+    "name": "ORCHARD MRT",
+    "aliases": [
+      "ION ORCHARD",
+      "WHEELOCK PLACE",
+      "TANGS"
+    ]
+  },
+  {
+    "name": "SOMERSET MRT",
+    "aliases": [
+      "313 SOMERSET"
+    ]
+  },
+  {
+    "name": "DHOBY GHAUT MRT",
+    "aliases": [
+      "PLAZA SINGAPURA"
+    ]
+  },
+  {
+    "name": "OUTRAM PARK MRT"
+  },
+  {
+    "name": "HARBOURFRONT MRT",
+    "aliases": [
+      "VIVOCITY"
+    ]
+  },
+  {
+    "name": "BUONA VISTA MRT",
+    "aliases": [
+      "STAR VISTA"
+    ]
+  },
+  {
+    "name": "JURONG EAST MRT",
+    "aliases": [
+      "JEM",
+      "WESTGATE",
+      "J CUBE",
+      "IMM"
+    ]
+  },
+  {
+    "name": "CLEMENTI MRT"
+  },
+  {
+    "name": "TAMPINES MRT",
+    "aliases": [
+      "TAMPINES MALL",
+      "CENTURY SQUARE"
+    ]
+  },
+  {
+    "name": "PASIR RIS MRT",
+    "aliases": [
+      "WHITE SANDS"
+    ]
+  },
+  {
+    "name": "BEDOK MRT",
+    "aliases": [
+      "BEDOK MALL"
+    ]
+  },
+  {
+    "name": "PUNGGOL MRT",
+    "aliases": [
+      "WATERWAY POINT"
+    ]
+  },
+  {
+    "name": "SENGKANG MRT",
+    "aliases": [
+      "COMPASS ONE"
+    ]
+  },
+  {
+    "name": "SERANGOON MRT",
+    "aliases": [
+      "NEX",
+      "NEX MALL"
+    ]
+  },
+  {
+    "name": "HOUGANG MRT",
+    "aliases": [
+      "HOUGANG MALL"
+    ]
+  },
+  {
+    "name": "KOVAN MRT",
+    "aliases": [
+      "HEARTLAND MALL KOVAN"
+    ]
+  },
+  {
+    "name": "BAYFRONT MRT",
+    "aliases": [
+      "MARINA BAY SANDS"
+    ]
+  },
+  {
+    "name": "CHINATOWN MRT"
+  },
+  {
+    "name": "RAFFLES PLACE MRT"
+  },
+  {
+    "name": "CITY HALL MRT"
+  },
+  {
+    "name": "BUGIS MRT",
+    "aliases": [
+      "BUGIS JUNCTION"
+    ]
+  },
+  {
+    "name": "ESPLANADE MRT",
+    "aliases": [
+      "SUNTEC CITY"
+    ]
+  },
+  {
+    "name": "PROMENADE MRT",
+    "aliases": [
+      "MILLENIA WALK"
+    ]
+  },
+  {
+    "name": "PAYA LEBAR MRT",
+    "aliases": [
+      "PLQ MALL",
+      "SINGPOST CENTRE",
+      "KINEX"
+    ]
+  },
+  {
+    "name": "BARTLEY MRT"
+  },
+  {
+    "name": "MACPHERSON MRT"
+  },
+  {
+    "name": "MARYMOUNT MRT"
+  },
+  {
+    "name": "KALLANG MRT"
+  },
+  {
+    "name": "QUEENSTOWN MRT"
+  },
+  {
+    "name": "TIONG BAHRU MRT",
+    "aliases": [
+      "TIONG BAHRU PLAZA"
+    ]
+  },
+  {
+    "name": "REDHILL MRT"
+  },
+  {
+    "name": "COMMONWEALTH MRT"
+  },
+  {
+    "name": "NORTHPOINT CITY",
+    "aliases": [
+      "NORTHPOINT"
+    ]
+  },
+  {
+    "name": "AMK HUB"
+  },
+  {
+    "name": "JUNCTION 8",
+    "aliases": [
+      "J8"
+    ]
+  },
+  {
+    "name": "TAMPINES MALL"
+  },
+  {
+    "name": "CENTURY SQUARE"
+  },
+  {
+    "name": "CAUSEWAY POINT"
+  },
+  {
+    "name": "JEM"
+  },
+  {
+    "name": "WESTGATE"
+  },
+  {
+    "name": "IMM"
+  },
+  {
+    "name": "BEDOK MALL"
+  },
+  {
+    "name": "WATERWAY POINT"
+  },
+  {
+    "name": "COMPASS ONE"
+  },
+  {
+    "name": "NEX"
+  },
+  {
+    "name": "HOUGANG MALL"
+  },
+  {
+    "name": "HEARTLAND MALL KOVAN"
+  },
+  {
+    "name": "JURONG POINT"
+  },
+  {
+    "name": "LOT ONE SHOPPERS' MALL",
+    "aliases": [
+      "LOT ONE"
+    ]
+  },
+  {
+    "name": "BUKIT PANJANG PLAZA"
+  },
+  {
+    "name": "NORTHPOINT CITY SOUTH WING"
+  },
+  {
+    "name": "NORTHPOINT CITY NORTH WING"
+  },
+  {
+    "name": "J-CUBE",
+    "aliases": [
+      "JCUBE",
+      "J CUBE"
+    ]
+  },
+  {
+    "name": "SUN PLAZA"
+  },
+  {
+    "name": "YISHUN TEN"
+  },
+  {
+    "name": "SEMBAWANG SHOPPING CENTRE"
+  },
+  {
+    "name": "THE SELETAR MALL"
+  },
+  {
+    "name": "PARKWAY PARADE"
+  },
+  {
+    "name": "CHANGI CITY POINT"
+  },
+  {
+    "name": "CHONG PANG CITY"
+  },
+  {
+    "name": "TOA PAYOH HDB HUB"
+  },
+  {
+    "name": "ANG MO KIO CENTRAL MARKET"
+  }
+]

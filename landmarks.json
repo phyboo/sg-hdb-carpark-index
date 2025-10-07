@@ -1,530 +1,84 @@
 [
   {
-    "name": "Ang Mo Kio Central",
+    "name": "Yishun MRT",
+    "lat": 1.4296,
+    "lng": 103.8356,
     "aliases": [
-      "AMK Central",
-      "Ang Mo Kio Central Market"
-    ],
-    "lat": 1.3693,
-    "lng": 103.8499,
-    "kind": "area"
-  },
-  {
-    "name": "Bedok Central",
-    "aliases": [
-      "Bedok Town Centre"
-    ],
-    "lat": 1.3241,
-    "lng": 103.932,
-    "kind": "area"
-  },
-  {
-    "name": "Bishan Central",
-    "aliases": [
-      "Bishan Town Centre"
-    ],
-    "lat": 1.3506,
-    "lng": 103.8485,
-    "kind": "area"
-  },
-  {
-    "name": "Bukit Batok Central",
-    "aliases": [
-      "Bukit Batok Town Centre"
-    ],
-    "lat": 1.349,
-    "lng": 103.75,
-    "kind": "area"
-  },
-  {
-    "name": "Bukit Panjang Central",
-    "aliases": [
-      "Bukit Panjang Town Centre"
-    ],
-    "lat": 1.3771,
-    "lng": 103.7633,
-    "kind": "area"
-  },
-  {
-    "name": "Choa Chu Kang Central",
-    "aliases": [
-      "CCK Central",
-      "Choa Chu Kang Town Centre"
-    ],
-    "lat": 1.3853,
-    "lng": 103.7442,
-    "kind": "area"
-  },
-  {
-    "name": "Clementi Central",
-    "aliases": [
-      "Clementi Town Centre"
-    ],
-    "lat": 1.3144,
-    "lng": 103.764,
-    "kind": "area"
-  },
-  {
-    "name": "Hougang Central",
-    "aliases": [
-      "Hougang Town Centre"
-    ],
-    "lat": 1.372,
-    "lng": 103.893,
-    "kind": "area"
-  },
-  {
-    "name": "Jurong East Central",
-    "aliases": [
-      "J.E. Central",
-      "Jurong East Town Centre"
-    ],
-    "lat": 1.3335,
-    "lng": 103.7438,
-    "kind": "area"
-  },
-  {
-    "name": "Jurong West Central",
-    "aliases": [
-      "J.W. Central",
-      "Jurong West Town Centre"
-    ],
-    "lat": 1.3399,
-    "lng": 103.7061,
-    "kind": "area"
-  },
-  {
-    "name": "Marine Parade Central",
-    "aliases": [
-      "Marine Parade Town Centre"
-    ],
-    "lat": 1.303,
-    "lng": 103.905,
-    "kind": "area"
-  },
-  {
-    "name": "Pasir Ris Central",
-    "aliases": [
-      "Pasir Ris Town Centre"
-    ],
-    "lat": 1.3723,
-    "lng": 103.9492,
-    "kind": "area"
-  },
-  {
-    "name": "Punggol Central",
-    "aliases": [
-      "Punggol Town Centre"
-    ],
-    "lat": 1.4068,
-    "lng": 103.9021,
-    "kind": "area"
-  },
-  {
-    "name": "Sembawang Central",
-    "aliases": [
-      "Sembawang Town Centre"
-    ],
-    "lat": 1.4495,
-    "lng": 103.82,
-    "kind": "area"
-  },
-  {
-    "name": "Sengkang Central",
-    "aliases": [
-      "Sengkang Town Centre"
-    ],
-    "lat": 1.3924,
-    "lng": 103.8951,
-    "kind": "area"
-  },
-  {
-    "name": "Serangoon Central",
-    "aliases": [
-      "Serangoon Town Centre"
-    ],
-    "lat": 1.351,
-    "lng": 103.8722,
-    "kind": "area"
-  },
-  {
-    "name": "Tampines Central",
-    "aliases": [
-      "Tampines Town Centre"
-    ],
-    "lat": 1.3531,
-    "lng": 103.9444,
-    "kind": "area"
-  },
-  {
-    "name": "Toa Payoh Central",
-    "aliases": [
-      "TPY Central",
-      "Toa Payoh Town Centre"
-    ],
-    "lat": 1.3347,
-    "lng": 103.85,
-    "kind": "area"
-  },
-  {
-    "name": "Woodlands Central",
-    "aliases": [
-      "Woodlands Town Centre"
-    ],
-    "lat": 1.4364,
-    "lng": 103.7865,
-    "kind": "area"
-  },
-  {
-    "name": "Yishun Central",
-    "aliases": [
-      "Yishun Town Centre"
-    ],
-    "lat": 1.4294,
-    "lng": 103.8354,
-    "kind": "area"
-  },
-  {
-    "name": "AMK Hub",
-    "aliases": [
-      "AMKHub"
-    ],
-    "lat": 1.3692,
-    "lng": 103.8499,
-    "kind": "mall"
+      "NS13 Yishun",
+      "Yishun Station"
+    ]
   },
   {
     "name": "Northpoint City",
+    "lat": 1.4292,
+    "lng": 103.8353,
     "aliases": [
       "NPC",
-      "Northpoint"
-    ],
-    "lat": 1.4295,
-    "lng": 103.8356,
-    "kind": "mall"
+      "Yishun Mall"
+    ]
+  },
+  {
+    "name": "Ang Mo Kio Hub",
+    "lat": 1.3691,
+    "lng": 103.8497,
+    "aliases": [
+      "AMK Hub"
+    ]
   },
   {
     "name": "Causeway Point",
+    "lat": 1.4362,
+    "lng": 103.7865,
     "aliases": [
       "CWP"
-    ],
-    "lat": 1.4364,
-    "lng": 103.7866,
-    "kind": "mall"
-  },
-  {
-    "name": "Junction 8",
-    "aliases": [
-      "J8"
-    ],
-    "lat": 1.3506,
-    "lng": 103.8485,
-    "kind": "mall"
-  },
-  {
-    "name": "NEX",
-    "aliases": [
-      "NEX Mall"
-    ],
-    "lat": 1.3508,
-    "lng": 103.8722,
-    "kind": "mall"
-  },
-  {
-    "name": "JEM",
-    "aliases": [],
-    "lat": 1.3333,
-    "lng": 103.7436,
-    "kind": "mall"
-  },
-  {
-    "name": "Westgate",
-    "aliases": [],
-    "lat": 1.3336,
-    "lng": 103.7429,
-    "kind": "mall"
-  },
-  {
-    "name": "IMM",
-    "aliases": [],
-    "lat": 1.333,
-    "lng": 103.7463,
-    "kind": "mall"
-  },
-  {
-    "name": "Jurong Point",
-    "aliases": [],
-    "lat": 1.3399,
-    "lng": 103.706,
-    "kind": "mall"
-  },
-  {
-    "name": "Lot One Shoppers' Mall",
-    "aliases": [
-      "Lot One",
-      "Lot 1"
-    ],
-    "lat": 1.3853,
-    "lng": 103.7441,
-    "kind": "mall"
-  },
-  {
-    "name": "Bukit Panjang Plaza",
-    "aliases": [
-      "BPP"
-    ],
-    "lat": 1.3782,
-    "lng": 103.7634,
-    "kind": "mall"
-  },
-  {
-    "name": "Hillion Mall",
-    "aliases": [],
-    "lat": 1.3789,
-    "lng": 103.7631,
-    "kind": "mall"
-  },
-  {
-    "name": "The Clementi Mall",
-    "aliases": [
-      "Clementi Mall"
-    ],
-    "lat": 1.3144,
-    "lng": 103.764,
-    "kind": "mall"
-  },
-  {
-    "name": "Tiong Bahru Plaza",
-    "aliases": [],
-    "lat": 1.2868,
-    "lng": 103.8262,
-    "kind": "mall"
-  },
-  {
-    "name": "Bedok Mall",
-    "aliases": [],
-    "lat": 1.3241,
-    "lng": 103.932,
-    "kind": "mall"
-  },
-  {
-    "name": "Tampines Mall",
-    "aliases": [],
-    "lat": 1.3531,
-    "lng": 103.9444,
-    "kind": "mall"
-  },
-  {
-    "name": "White Sands",
-    "aliases": [],
-    "lat": 1.3722,
-    "lng": 103.9493,
-    "kind": "mall"
-  },
-  {
-    "name": "Waterway Point",
-    "aliases": [],
-    "lat": 1.4069,
-    "lng": 103.9021,
-    "kind": "mall"
-  },
-  {
-    "name": "Compass One",
-    "aliases": [],
-    "lat": 1.3927,
-    "lng": 103.8951,
-    "kind": "mall"
-  },
-  {
-    "name": "Great World City",
-    "aliases": [
-      "GWC"
-    ],
-    "lat": 1.2937,
-    "lng": 103.8318,
-    "kind": "mall"
-  },
-  {
-    "name": "VivoCity",
-    "aliases": [
-      "Vivo City"
-    ],
-    "lat": 1.2644,
-    "lng": 103.8238,
-    "kind": "mall"
-  },
-  {
-    "name": "Parkway Parade",
-    "aliases": [],
-    "lat": 1.3017,
-    "lng": 103.905,
-    "kind": "mall"
-  },
-  {
-    "name": "Changi City Point",
-    "aliases": [],
-    "lat": 1.3332,
-    "lng": 103.9627,
-    "kind": "mall"
-  },
-  {
-    "name": "Plaza Singapura",
-    "aliases": [
-      "Plaza Sing"
-    ],
-    "lat": 1.3006,
-    "lng": 103.8458,
-    "kind": "mall"
-  },
-  {
-    "name": "Sun Plaza",
-    "aliases": [],
-    "lat": 1.4497,
-    "lng": 103.8198,
-    "kind": "mall"
-  },
-  {
-    "name": "Yishun Community Hospital",
-    "aliases": [
-      "YCH"
-    ],
-    "lat": 1.4243,
-    "lng": 103.838,
-    "kind": "hospital"
+    ]
   },
   {
     "name": "Khoo Teck Puat Hospital",
+    "lat": 1.4245,
+    "lng": 103.838,
     "aliases": [
       "KTPH"
-    ],
-    "lat": 1.4245,
-    "lng": 103.8382,
-    "kind": "hospital"
+    ]
   },
   {
-    "name": "Singapore General Hospital",
+    "name": "Yishun Community Hospital",
+    "lat": 1.4247,
+    "lng": 103.8381,
     "aliases": [
-      "SGH"
-    ],
-    "lat": 1.2796,
-    "lng": 103.834,
-    "kind": "hospital"
+      "YCH"
+    ]
   },
   {
-    "name": "Tan Tock Seng Hospital",
+    "name": "NEX Mall",
+    "lat": 1.3506,
+    "lng": 103.872,
     "aliases": [
-      "TTSH"
-    ],
-    "lat": 1.321,
-    "lng": 103.845,
-    "kind": "hospital"
+      "NEX"
+    ]
   },
   {
-    "name": "National University Hospital",
+    "name": "IMM",
+    "lat": 1.3335,
+    "lng": 103.746,
     "aliases": [
-      "NUH"
-    ],
-    "lat": 1.2932,
-    "lng": 103.7835,
-    "kind": "hospital"
+      "IMM Mall"
+    ]
   },
   {
-    "name": "Changi General Hospital",
+    "name": "Woodlands MRT",
+    "lat": 1.436,
+    "lng": 103.7865,
     "aliases": [
-      "CGH"
-    ],
-    "lat": 1.3416,
-    "lng": 103.9537,
-    "kind": "hospital"
+      "NS9 Woodlands"
+    ]
   },
   {
-    "name": "Sengkang General Hospital",
+    "name": "Bukit Panjang Plaza",
+    "lat": 1.3786,
+    "lng": 103.7639,
     "aliases": [
-      "SKH"
-    ],
-    "lat": 1.395,
-    "lng": 103.886,
-    "kind": "hospital"
-  },
-  {
-    "name": "Sengkang Community Hospital",
-    "aliases": [
-      "SKCH"
-    ],
-    "lat": 1.3952,
-    "lng": 103.8863,
-    "kind": "hospital"
-  },
-  {
-    "name": "Outram Community Hospital",
-    "aliases": [
-      "OCH"
-    ],
-    "lat": 1.2799,
-    "lng": 103.8339,
-    "kind": "hospital"
-  },
-  {
-    "name": "Ng Teng Fong General Hospital",
-    "aliases": [
-      "NTFGH"
-    ],
-    "lat": 1.3346,
-    "lng": 103.7462,
-    "kind": "hospital"
-  },
-  {
-    "name": "KK Women's and Children's Hospital",
-    "aliases": [
-      "KKH"
-    ],
-    "lat": 1.3128,
-    "lng": 103.8444,
-    "kind": "hospital"
-  },
-  {
-    "name": "Alexandra Hospital",
-    "aliases": [
-      "AH"
-    ],
-    "lat": 1.2921,
-    "lng": 103.802,
-    "kind": "hospital"
-  },
-  {
-    "name": "Institute of Mental Health",
-    "aliases": [
-      "IMH"
-    ],
-    "lat": 1.3784,
-    "lng": 103.884,
-    "kind": "hospital"
-  },
-  {
-    "name": "Woodlands Health",
-    "aliases": [
-      "WHC"
-    ],
-    "lat": 1.433,
-    "lng": 103.79,
-    "kind": "hospital"
-  },
-  {
-    "name": "National Cancer Centre Singapore",
-    "aliases": [
-      "NCCS"
-    ],
-    "lat": 1.2777,
-    "lng": 103.833,
-    "kind": "hospital"
-  },
-  {
-    "name": "National Heart Centre Singapore",
-    "aliases": [
-      "NHCS"
-    ],
-    "lat": 1.2786,
-    "lng": 103.8345,
-    "kind": "hospital"
+      "BPP"
+    ]
   }
 ]
